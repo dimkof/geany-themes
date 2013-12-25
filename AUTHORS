@@ -97,6 +97,10 @@ solarized-light.conf
   Joshua Hoff <https://github.com/joshuarh>
  *Matthew Brush <matt(at)geany(dot)org>
 
+steampunk.conf
+--------------------
+ *Baptiste Darthenay <geany(dot)batisteo(at)recursor(dot)net>
+
 tango-dark.conf
 ---------------
   Barry van Oudtshoorn <unknown email address>
@@ -111,6 +115,10 @@ tinge.conf
   Harsh J <harshj(at)gmail(dot)com>
   Luigi Maselli <luigix(at)gmail(dot)com>
  *Matthew Brush <matt(at)geany(dot)org>
+
+ubuntu.conf
+-----------
+ *James Brierley <jmb8710(at)gmail(dot)com>
 
 vibrant-ink.conf
 ----------------
