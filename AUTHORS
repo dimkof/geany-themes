@@ -62,6 +62,11 @@ monokai.conf
 ------------
   *Thanh Tran <trongthanh(at)gmail(dot)com>
 
+notepad-plus-plus.conf
+----------------------
+  Paul <phpbased(dot)net(at)gmail(dot)com>
+ *Matthew Brush <matt(at)geany(dot)org> (port to newer Geany)
+
 oblivion2.conf
 --------------
   Bernhard Posselt <bernhard.posselt(at)gmx(dot)at>
@@ -96,6 +101,10 @@ solarized-light.conf
   Ethan Schoonover <es(at)ethanschoonover(dot)com>
   Joshua Hoff <https://github.com/joshuarh>
  *Matthew Brush <matt(at)geany(dot)org>
+
+spyder-dark.conf
+----------------
+ *Paul Thompson <redoubts(at)gmail(dot)com>
 
 steampunk.conf
 --------------------
